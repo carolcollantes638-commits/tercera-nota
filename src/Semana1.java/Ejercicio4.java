@@ -1,4 +1,4 @@
-
+import java.util.Scanner;
 //Problema 4. Notas de estudiantes
 //Una institución necesita registrar las notas de 4 estudiantes en 3 materias. La información debe almacenarse en una matriz de 4 × 3.
 //El programa debe:

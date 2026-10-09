@@ -1,4 +1,4 @@
-
+import java.util.Scanner;
 //Problema 1. Promedio de notas
 //Realice un programa en Java que permita ingresar las 5 notas de un estudiante. 
 //El programa debe calcular el promedio de las notas y mostrar si el estudiante

@@ -1,4 +1,4 @@
-
+import java.util.Scanner;
 //Problema 2. Ventas de una tienda
 //Una tienda registra las ventas de 4 productos durante 5 días. La información debe almacenarse en una matriz de 4 × 5.
 //El programa debe:

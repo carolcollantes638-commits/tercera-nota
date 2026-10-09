@@ -1,4 +1,4 @@
-
+import java.util.Scanner;
 //Problema 3. Número mayor y menor
 //Realice un programa en Java que solicite 5 números enteros. El programa debe 
 //almacenarlos en un arreglo y determinar cuál es el número mayor y cuál es el número menor.
